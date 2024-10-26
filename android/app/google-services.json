@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950468414813",
+    "project_id": "afaq-firebase-a3d20",
+    "storage_bucket": "afaq-firebase-a3d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950468414813:android:d8038c57baa91080bf6cb4",
+        "android_client_info": {
+          "package_name": "com.example.afaq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Fyk20EbqmWzB0P0PBQS8r8NquZXZgEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950468414813:android:ade1c0e824e7bc1fbf6cb4",
+        "android_client_info": {
+          "package_name": "com.example.project_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Fyk20EbqmWzB0P0PBQS8r8NquZXZgEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
